@@ -15,7 +15,6 @@ export const Footer = () => {
             {/* <img src={logo} style={{width:'150px',  borderRadius: '50%'}}  alt="Logo" /> */}
           </Col>
           <Col size={12} sm={6} className=" text-center text-sm-end">
-            <p>(+91) 9599306226</p>
             <p>nandini.sunil1024@gmail.com</p>
             <p>Copyright 2022. All Rights Reserved</p>
           </Col>
